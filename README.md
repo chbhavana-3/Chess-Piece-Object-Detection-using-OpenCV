@@ -4,8 +4,7 @@ This project involves loading multiple images of chess boards and utilizing the 
 <p align="center">
     <img src="dist/board.jpg" />
     <img src="dist/board (9).jpg" />
-    <img src="dist/board (10).jpg" />
-    <img src="dist/board (1).jpg" />
+   
 </p>
 
 
