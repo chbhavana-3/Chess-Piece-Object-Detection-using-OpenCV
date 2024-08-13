@@ -35,19 +35,14 @@ pip install opencv-python numpy
 
 Next, place the chess board image files in the `test/` directory and the chess piece image files in the `chess_piece/` directory.
 
-There are two ways to execute the program:
 
-**Method 1: Running in Terminal**
+** Running in Terminal**
 
 To run the script in the terminal, use the following command:
 
 ```bash
 python main.py
 ```
-
-**Method 2: Running in Jupyter Lab**
-
-To run the script in `Jupyter Lab`, open the `main.ipynb` notebook and execute the code.
 
 ## Configuration
 
